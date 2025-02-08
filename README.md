@@ -1,4 +1,4 @@
-# Numerical-LRE-Solution
+# Semiclassical QED Numerics
 
 ## Description
 
@@ -32,3 +32,6 @@ A headless run can be started via
 matlab -nodesktop -nosplash -r "run('Start_Run.m');" 
 ```
 
+## Resources
+
+[Semiclassical QED Numerics Data](https://github.com/newsim18/Semiclassical-QED-Numerics-Data) - Select Data
